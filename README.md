@@ -1,8 +1,7 @@
 # 💻 🚀Python Mini Projects Collection – By Muzna Amir Zubairi
 
 Welcome to my Python project repository! 🚀 This collection includes 9 beginner-friendly to intermediate-level Python projects, built as part of my coding journey. Each project demonstrates practical use of Python fundamentals, logic building, and in some cases, Streamlit-based web applications.
-
-These projects will be reviewed by instructors during the onsite class. The due date will be announced by your respective instructor. ✅
+ ✅
 
 ---
 
@@ -23,14 +22,14 @@ These projects will be reviewed by instructors during the onsite class. The due 
 ---
 
 ### 🔢 Project 3: Guess the Number (User Guesses)
-- User tries to guess a randomly generated number.
+- The user tries to guess a randomly generated number.
 - Includes hints like "Too High" or "Too Low".
 - 👉 **Tech Used**: Python, Random module
 
 ---
 
 ### ✊✋✌️ Project 4: Rock, Paper, Scissors Game
-- A fun CLI-based game between the user and computer.
+- A fun CLI-based game between the user and the computer.
 - Teaches conditionals and game logic.
 - 👉 **Tech Used**: Python
 
